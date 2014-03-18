@@ -1,13 +1,10 @@
 # baseboxes
-=========
 
 Basebox definitions.
 
 # Current VirtualBox Baseboxes
-=========
 
 ## VirtualBox 4.3.8
-=========
 
 64-bit boxes:
 
@@ -18,7 +15,5 @@ Basebox definitions.
 * Ubuntu 12.04-Desktop
 
 # Getting Started
-===========
 
 # Provisioners
-===========
